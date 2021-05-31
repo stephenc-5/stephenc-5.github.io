@@ -4,7 +4,7 @@ Here you will find links to my CIS projects.
 
 ### CIS 192 - Project 1: Tribute Page
 
-[Link to Project 1](http://www.google.com) 
+[Link to Project 1](https://stephenc-5.github.io/tributepage/) 
 
 ### CIS 192 - Project 2: Form Page
 

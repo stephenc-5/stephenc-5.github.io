@@ -1,4 +1,4 @@
-## Welcome to Stephen's CIS Portfolio
+## Welcome to Stephen's Portfolio
 
 Here you will find links to my CIS projects. 
 

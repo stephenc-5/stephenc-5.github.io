@@ -2,8 +2,14 @@
 
 Here you will find links to my CIS projects. 
 
-### Project 1: Tribute Page
+### CIS 192 - Project 1: Tribute Page
 
 [Link](http://www.google.com) 
 
+### CIS 192 - Project 2: Form Page
 
+[Link](http://www.google.com) 
+
+### CIS 193 - Final Project
+
+[Link](http://www.google.com) 

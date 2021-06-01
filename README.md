@@ -1,6 +1,6 @@
-# Online Portfolio
+# Current Projects
 
-Here you will find links to my CIS projects. 
+Links are provided below to my current projects.  Please feel free to browse at your leisure. 
 
 ## CIS 192 - Project 1: Tribute Page
 

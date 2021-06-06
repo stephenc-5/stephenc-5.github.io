@@ -8,7 +8,7 @@ Links are provided below to my current projects.  Please feel free to browse at 
 
 ## CIS 192 - Project 2: Form Page
 
-  [Link to Project 2](http://www.google.com) 
+  [Link to Project 2](https://stephenc-5.github.io/cis192final-form/) 
 
 ## CIS 193 - Final Project
 

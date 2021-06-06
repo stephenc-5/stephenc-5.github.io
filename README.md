@@ -10,6 +10,6 @@ Links are provided below to my current projects.  Please feel free to browse at 
 
   [Link to Project 2](https://stephenc-5.github.io/cis192final-form/) 
 
-## CIS 193 - Final Project
+## CIS 193 - Javascript Project
 
   [Link to Final Project](http://www.google.com) 
